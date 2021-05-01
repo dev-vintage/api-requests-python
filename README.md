@@ -1,4 +1,4 @@
-# ![Python](./assets/python.png) Mini API Python with requests ![Python](./assets/python.png) 
+# ![Python](./assets/python.png) Making API requests Python  ![Python](./assets/python.png) 
 
 ## What is an API?
 
