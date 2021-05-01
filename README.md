@@ -9,6 +9,4 @@ When we want to receive data from an API, we need to make a request. Requests ar
 ## Making API Requests in Python
 <hr>
 
-<div align="center">
-<img src="./assets/python.png"/><a src="./src/main.py" style="font-size: 18px;">API</a><img src="./assets/python.png"/>
-</div>
+[Click to go to API](./src/main.py)
