@@ -9,4 +9,4 @@ When we want to receive data from an API, we need to make a request. Requests ar
 ## Making API Requests in Python
 <hr>
 
-[Click to go to API](./src/main.py)
+[Click to go to file](./src/main.py)
