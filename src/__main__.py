@@ -17,3 +17,15 @@ print(response.status_code)
 # In order to ensure we make a successful request, when we work with APIs it’s important to consult
 # the documentation. Documentation can seem scary at first, but as you use documentation more
 # and more you’ll find it gets easier.
+
+# If you click the link above to look at the documentation for this endpoint, you’ll see that it says This API takes no inputs. This makes it a simple API for us to get started with. We’ll start by making a GET request to the endpoint using the requests library: 
+
+response = requests.get("https://api.open-notify.org/astros.json")
+print(response.status_code)
+
+# We received a ‘200’ code which tells us our request was successful. The documentation tells us that the API response we’ll get is in JSON format. In the next section we’ll learn about JSON, but first let’s use the response.json() method to see the data we received back from the API:
+
+print(response.json())
+
+
+
